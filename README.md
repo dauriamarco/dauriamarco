@@ -13,8 +13,8 @@
 
 📫 Reach me at **marcodauria97@outlook.com**
 
-📄 Know about my experiences [https://marcodauria.it/assets/documents/cv-marco-dauria.pdf](https://marcodauria.it/assets/documents/cv-marco-dauria.pdf)
-
+📄 Know about my experiences [CV](https://marcodauria.it/assets/documents/cv-marco-dauria.pdf)
+<hr></hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dauriamarco&show_icons=true&locale=en" alt="dauriamarco" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
